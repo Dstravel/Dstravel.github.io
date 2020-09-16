@@ -75,3 +75,12 @@
 # 관련 이미지와 관련 동영상 
 
 <iframesrc=" https://www.youtube.com/watch?time_continue=2&v=fEL944jHxa8 "></iframe>
+
+- 비슷한 플레이 영상
+
+
+<img src='./img/다운로드.jpg'>
+
+- 비슷한 게임시점
+
+
