@@ -74,7 +74,7 @@
 
 # 관련 이미지와 관련 동영상 
 
-<iframesrc=" https://www.youtube.com/watch?time_continue=2&v=fEL944jHxa8 "></iframe>
+[![](./img/일러1.jpg)](https://www.youtube.com/watch?time_continue=2&v=fEL944jHxa8)
 
 - 비슷한 플레이 영상
 
