@@ -72,6 +72,7 @@
 - 본인 또한 나중에 이쪽 일을 하게 된다면, 본인이 원하는 게임을 만들기 힘들기 때문에 그 동안 속으로만 기획하던 것 중에서 하나를 이렇게라도 한번 만들어 볼까 하고 고민하였고 이렇게 발표하게 되었다.
 
 
-# 관련 이미지와 관련 동영상 https://www.youtube.com/watch?time_continue=2&v=fEL944jHxa8>
+# 관련 이미지와 관련 동영상 
 
-<iframe width="560" height="315" src=" https://www.youtube.com/watch?time_continue=2&v=fEL944jHxa8>
+<iframe class="youtube" src="https://www.youtube.com/watch?time_continue=2&v=fEL944jHxa8"  
+ frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
