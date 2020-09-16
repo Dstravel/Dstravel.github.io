@@ -74,5 +74,4 @@
 
 # 관련 이미지와 관련 동영상 
 
-<iframe class="youtube" src="https://www.youtube.com/watch?time_continue=2&v=fEL944jHxa8"  
- frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+<iframe width="640" height="360" src=" https://www.youtube.com/watch?time_continue=2&v=fEL944jHxa8 "></iframe>
