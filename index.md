@@ -2,6 +2,7 @@
 
 
 ## D's travel 목차
+
  ## [컨셉](#목차)  
  ## [관련 이미지 관련 동영상](#관련-이미지와-관련-동영상)  
  ## [컨셉과 대표 이미지](#컨셉과-대표-이미지)
@@ -247,7 +248,7 @@
 |6|아이|<img src='./img/d609s3r-b3a5b296-04a6-4e52-8a43-445fe52c5337.jpg'  width="100" height="100">||
 |7|남자|<img src='./img/hoodman.PNG'  width="100" height="100">||
 |8|몬스터들|<img src='./img/sword-enemy.PNG'  width="100" height="100">|자세한 내용은 아래쪽에|
-|8|보스 몬스터들|<img src='./img/big.PNG'  width="100" height="100">|자세한 내용은 아래쪽에|
+|8|보스 몬스터들|<img src='./img/big.png'  width="100" height="100">|자세한 내용은 아래쪽에|
 
 
 
