@@ -237,7 +237,7 @@
 
 |번호|이름|이미지|비고|
 |--|--|--------|-|
-|1|배경|<img src='./img/background.png'  width="400" height="400">||
+|1|배경|<img src='./img/background.PNG'  width="400" height="400">||
 |2|울타리|ㅁㅁ||
 |3|불|ㅁㅁ||
 |4|UI|ㅁㅁ||
