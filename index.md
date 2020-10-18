@@ -90,7 +90,7 @@
  # 관련 이미지와 관련 동영상
 
   
-  [![](./img/hqdefault.jpg)](https://www.youtube.com/watch?time_continue=1&v=fEL944jHxa8)
+  [![](./img/example.png)](https://www.youtube.com/watch?time_continue=1&v=fEL944jHxa8)
 
  - 비슷한 플레이 영상
 
@@ -237,7 +237,7 @@
 
 |번호|이름|이미지|비고|
 |--|--|--------|-|
-|1|배경|ㅁㅁ|-|
+|1|배경|<img src='./img/201407166548F2EA00D44002.jpg'>|-|
 |2|울타리|ㅁㅁ|-|
 |3|불|ㅁㅁ|-|
 |4|UI|ㅁㅁ|-|
