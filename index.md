@@ -235,17 +235,19 @@
 
 ## 게임 오브젝트 분해
 
+#### 몬스터들의 이미지는 제작과정중에 달라질 수 있습니다.
+
 |번호|이름|이미지|비고|
 |--|--|--------|-|
-|1|배경|<img src='./img/background.PNG'  width="400" height="400">||
-|2|울타리|ㅁㅁ||
-|3|불|ㅁㅁ||
-|4|UI|ㅁㅁ||
-|5|시체더미|ㅁㅁ||
-|6|아이|ㅁㅁ||
-|7|남자|ㅁㅁ||
-|8|몬스터들|ㅁㅁ|자세한 내용은 아래쪽에|
-
+|1|배경|<img src='./img/background.PNG'  width="300" height="150">||
+|2|울타리|<img src='./img/fence.PNG'  width="100" height="100">||
+|3|불|<img src='./img/fire.PNG'  width="100" height="100">||
+|4|UI|<img src='./img/UI.PNG'  width="100" height="100">||
+|5|시체더미|<img src='./img/coprse.PNG'  width="100" height="100">||
+|6|아이|<img src='./img/d609s3r-b3a5b296-04a6-4e52-8a43-445fe52c5337.jpg'  width="100" height="100">||
+|7|남자|<img src='./img/hoodman.PNG'  width="100" height="100">||
+|8|몬스터들|<img src='./img/sword-enemy.PNG'  width="100" height="100">|자세한 내용은 아래쪽에|
+|8|보스 몬스터들|<img src='./img/big.PNG'  width="100" height="100">|자세한 내용은 아래쪽에|
 
 
 
