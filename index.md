@@ -630,13 +630,13 @@
 
 ### 시작화면
 
- <span style="color:blue">  - 게임을 시작하면 시작버튼, 설정버튼, 끝내기 버튼이 있다. </span>
+ <span style="color:blue"> -  게임을 시작하면 시작버튼, 설정버튼, 끝내기 버튼이 있다. </span>
 
- <span style="color:blue">  - 시작화면에는 걸어가는 남자와 따라가는 아이의 모습이 있다. </span>
+ <span style="color:blue"> -  시작화면에는 걸어가는 남자와 따라가는 아이의 모습이 있다. </span>
 
- <span style="color:blue">  - 시작화면에는 게임시작, 설정, 끝내기버튼, 총 3가지가 있다. </span>
+ <span style="color:blue"> -  시작화면에는 게임시작, 설정, 끝내기버튼, 총 3가지가 있다. </span>
 
- <span style="color:blue">  - 끝내기버튼 클릭시 화면이 종료된다. </span>
+ <span style="color:blue"> -  끝내기버튼 클릭시 화면이 종료된다. </span>
 
  - 시작화면에서는 마우스 사용이 가능하다.
 
@@ -653,15 +653,15 @@
 
 ### 플레이
 
- <span style="color:blue">  - 아이(조종 캐릭터)가 죽으면 게임오버 </span>
+ <span style="color:blue"> -  아이(조종 캐릭터)가 죽으면 게임오버 </span>
 
- <span style="color:blue">  - 적을 없앨 때 마다 얻는 경험치로 스킬포인트를 얻을수 있다. </span>
+ <span style="color:blue"> -  적을 없앨 때 마다 얻는 경험치로 스킬포인트를 얻을수 있다. </span>
 
- <span style="color:blue">  - 기본적으로 맵은 가로로 긴 직사각형 모양의 맵이다. </span>
+ <span style="color:blue"> -  기본적으로 맵은 가로로 긴 직사각형 모양의 맵이다. </span>
 
- <span style="color:blue">  - 게임은 키보드로 조작가능하다. </span>
+ <span style="color:blue"> -  게임은 키보드로 조작가능하다. </span>
 
- <span style="color:blue">  - 시작하면 몇분 가량의 튜토리얼을 하게된다. </span>
+ <span style="color:blue"> -  시작하면 몇분 가량의 튜토리얼을 하게된다. </span>
 
  - 초반에 아이는 구르기 스킬을,ㅋ 남자는 자동 스킬,수동 스킬 1개씩 사용가능하다.
 
@@ -684,15 +684,15 @@
 
 ## 시스템
 
- <span style="color:blue">  - 모든 조작은 키보드를 통해서 한다. </span>
+ <span style="color:blue"> -  모든 조작은 키보드를 통해서 한다. </span>
 
- <span style="color:blue">  - 적은 아이를 중심으로 공격한다. </span>
+ <span style="color:blue"> -  적은 아이를 중심으로 공격한다. </span>
 
- <span style="color:blue">   - 적들은 몇가지의 공격패턴을 가지고 있다.</span>
+ <span style="color:blue">  -  적들은 몇가지의 공격패턴을 가지고 있다.</span>
 
- <span style="color:blue">   - 게임화면에서는 아이와 남자 그리고 몬스터가 등장한다. </span>
+ <span style="color:blue">  -  게임화면에서는 아이와 남자 그리고 몬스터가 등장한다. </span>
 
- <span style="color:blue">   - 울타리와 불, 시체더미는 지나갈 수 없다.(울타리와 시체더미는 파괴가능하다) </span>
+ <span style="color:blue">  -  울타리와 불, 시체더미는 지나갈 수 없다.(울타리와 시체더미는 파괴가능하다) </span>
 
  - 남자는 조종불가능하지만 무적이며, 적들을 자동으로 공격한다. 하지만 CC로 인한 전투중지는 가능하다.
 공격지정과 스킬사용만 조종가능 하다. (애매함)
