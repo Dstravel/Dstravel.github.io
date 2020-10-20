@@ -737,8 +737,8 @@
 
 
 
-<img src='./img/일정표.PNG'>
-
+<img src='./img/일정표 1.PNG'>
+<img src='./img/일정표2.PNG'>
 
 
 
