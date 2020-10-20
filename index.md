@@ -753,7 +753,7 @@
 ## 스토리보드
 
 
- https://mega.nz/file/UuhWmKjS#oOG3ApgLZDrj-LDRwfCSHdffWYLRgDfeDHTc5bczc64
+ [프롤로그 부분](https://mega.nz/file/UuhWmKjS#oOG3ApgLZDrj-LDRwfCSHdffWYLRgDfeDHTc5bczc64)
 
   - 사람이 이해 못 할 정도로 처절한 그림실력이라서 스토리 초반 상황을 남자의 시점에서 쓴 단편 소설(?)로 대처함.
 
