@@ -9,7 +9,7 @@
 ### [게임구성요소](#게임구성요소)    
 ### [게임 시스템 디자인](#게임-시스템-디자인)    
 ### [개발 요구사항과 흐름도](#개발-요구사항과-흐름도)    
-### [미디어믹스](#)    
+### [스토리보드](#)    
 ### [개발작업 일정](#개발작업-일정)    
 
 
@@ -750,10 +750,12 @@
  <img src='./img/용어2.PNG'>
 
 
-## 미디어믹스
+## 스토리보드
 
- https://mega.nz/file/Rr4AAJxQ#CXT4yRsmAvJAnhcY33BzFgFjrGKgb-WMg3xtVh9FagQ
 
+ https://mega.nz/file/UuhWmKjS#oOG3ApgLZDrj-LDRwfCSHdffWYLRgDfeDHTc5bczc64
+
+  - 사람이 이해 못 할 정도로 처절한 그림실력이라서 스토리 초반 상황을 남자의 시점에서 쓴 단편 소설(?)로 대처함.
 
 ## 개발작업 일정(6주)
 
